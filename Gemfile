@@ -60,4 +60,3 @@ gem "tailwindcss-rails"
 gem "tailwindcss-ruby", "4.1.5"
 
 gem "meta-tags"
-
